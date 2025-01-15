@@ -13,7 +13,7 @@
   - [登录认证](#登录认证)
   - [阅读工具](#阅读工具)
   - [数据分析](#数据分析)
-  - [娱乐](#娱乐)
+  - [娱乐游戏](#娱乐游戏)
   - [永远纪念](#永远纪念)
 
 ### 官方资源
@@ -56,11 +56,11 @@
 - [doLinuxRadar](https://github.com/yym68686/doLinuxRadar) - 嗅探你感兴趣的话题的机器人
 - [社区数据实时可视化报告](https://github.com/wincatcher/linuxdo.visualized.fun) - 专注于展示 Linux.do 社区实时数据的可视化分析平台。基于 Next.js 构建，提供全方位的社区数据洞察，助力社区运营决策。
 
-### 娱乐
+### 娱乐游戏
 
 - [在线随机匹配小游戏后端](https://github.com/lxk1066/linuxdo_mini_games)
 - [在线随机匹配小游戏前端](https://github.com/lxk1066/LinuxDoMiniGame)
-- [空气币](https://github.com/14790897/ldo_coin)
+- [空气币](https://github.com/14790897/ldo_coin) - 非官方，仅娱乐
 
 ### 永远纪念
 - [Linux.do-KeepAlive](https://github.com/WowYiJiu/Linux.do-KeepAlive)
