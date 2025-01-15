@@ -2,10 +2,10 @@
 
 一个 Linux.do 开源资源的精选列表。
 
-## Contents
+## 目录
 
 - [Awesome LinuxDo ](#awesome-linuxdo-)
-- [Contents](#contents)
+- [目录](#目录)
   - [官方资源](#官方资源)
   - [抽奖工具](#抽奖工具)
   - [辅助脚本](#辅助脚本)
