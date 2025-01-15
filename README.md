@@ -32,6 +32,7 @@
 - [LinuxDo Scripts 扩展](https://github.com/dlzmoe/linuxdo-scripts) - 功能丰富完善
 - [Linuxdo活跃助手](https://github.com/Yantesoft/LinuxdoAssistant) - 用于篡改猴的用户脚本，旨在自动浏览 Linux.do 论坛的帖子，帮助用户保持活跃度。
 - [Linux do Level Enhanced](https://linux.do/t/topic/29483/1) - 论坛等级显示增强
+- [cookie-share](https://github.com/fangyuan99/cookie-share) - 快速切号
 - [获取帖子内容代码](https://linux.do/t/topic/238634/1) - 站内开源
 - [LINUXDO ReadBoost](https://linux.do/t/topic/283062) - 站内开源
 - [刷已读帖子次数](https://linux.do/t/topic/205399) - 站内开源 参考思路
@@ -44,6 +45,7 @@
 ### 登录认证
 
 - [next-auth-linuxdo-example](https://github.com/voidmozx/next-auth-linuxdo-example)
+- [LD-Oauth2](https://github.com/youwen21/ld-oauth2) - 封装认证借口，便于简单调用
 
 
 ### 阅读工具
