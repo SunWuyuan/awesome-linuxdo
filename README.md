@@ -20,7 +20,7 @@
 
 - [Lottery](https://github.com/linux-do/lottery) - 始皇开发的抽奖工具
 - [Linux Do Wiki](https://github.com/Chenyme/Linux-Do-Wiki) - 论坛wiki站
-
+- [Discourse](https://github.com/discourse/discourse) - 社区使用的论坛系统
 ### 抽奖工具
 - [Lottery](https://github.com/linux-do/lottery) - 始皇开发的抽奖工具
 - [linux-do-lottery-script](https://github.com/Adonis142857/linux-do-lottery-script)
