@@ -48,11 +48,12 @@
 - [LD-Oauth2](https://github.com/youwen21/ld-oauth2) - 封装认证借口，便于简单调用
 
 
-### 第三方客户端
+### 客户端
 
 - [MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo) - 命令行读帖工具
 - [R-lz/LINUX-DO](https://github.com/R-lz/LINUX-DO) - 一个简单的使用Flutter开发的L站的移动端 [LDO#409286](https://linux.do/t/topic/409286)
-
+- median.co制作的网页转应用 - [LDO#165846](https://linux.do/t/topic/165846)
+- linuxdo App - 经过优化的网页转应用[LDO#165786](https://linux.do/t/topic/165786)
 ### 第三方工具
 
 - [doLinuxRadar](https://github.com/yym68686/doLinuxRadar) - 嗅探你感兴趣的话题的机器人
