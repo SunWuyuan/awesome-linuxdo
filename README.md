@@ -51,7 +51,7 @@
 ### 第三方客户端
 
 - [MoyuLinuxdo](https://github.com/sbdelse/MoyuLinuxdo) - 命令行读帖工具
-- [R-lz/LINUX-DO](https://github.com/R-lz/LINUX-DO) - 一个简单的L站的移动端 [LDO#409286](https://linux.do/t/topic/409286)
+- [R-lz/LINUX-DO](https://github.com/R-lz/LINUX-DO) - 一个简单的使用Flutter开发的L站的移动端 [LDO#409286](https://linux.do/t/topic/409286)
 
 ### 第三方工具
 
