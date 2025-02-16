@@ -67,6 +67,9 @@
 - [在线随机匹配小游戏前端](https://github.com/lxk1066/LinuxDoMiniGame)
 - [空气币](https://github.com/14790897/ldo_coin) - 非官方，仅娱乐
 
+### 衍生工具
+- [gpt-cursor-auto](https://github.com/hmhm2022/gpt-cursor-auto) - 只有论坛用户能用
+  
 ### 永远纪念
 - [Linux.do-KeepAlive](https://github.com/WowYiJiu/Linux.do-KeepAlive)
 - [LinuxDo 每日签到](https://github.com/doveppp/linuxdo-checkin)
