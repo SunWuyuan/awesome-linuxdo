@@ -38,6 +38,8 @@
 - [LINUXDO ReadBoost](https://linux.do/t/topic/283062) - 站内开源
 - [刷已读帖子次数](https://linux.do/t/topic/205399) - 站内开源 参考思路
 - [Mysterious Code](https://linux.do/t/topic/305864) - 站内开源 阻止反
+- [小鱼标签 (UTags)](https://github.com/utags/utags) - 可以给用户，话题打标签，可以屏蔽用户，过滤掉话题和回复的脚本和扩展 [LDO#364829](https://linux.do/t/topic/364829)
+- [Replace Ugly Avatars | 赐你个头像吧](https://github.com/utags/replace-ugly-avatars) - 一个替换别人头像的油猴脚本 [LDO#438182](https://linux.do/t/topic/438182)
 
 ### 签名图片
 
